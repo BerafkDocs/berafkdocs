@@ -35,7 +35,7 @@ Doğduğumuz andan itibaren internet ile iç içe gireriz. Yapığımız her har
 --"Başımıza bir şey gelir, boşver"
 
 
---...--
+-------
 
 
 ++Büyük şirketler HERKESİN bilgilerini toplarlar, sadece ünlülerin değil. Çünkü reklamlar tüm kullanıcılara gösterilir, sadece ünlülere değil.
@@ -46,9 +46,9 @@ Doğduğumuz andan itibaren internet ile iç içe gireriz. Yapığımız her har
 
 ++Eğer bugün uğraşmazsak yarın gerçekten pişman olabiliriz. Çevrimiçi gizliliği korumak size anlamsız gelebilir, ama değil. Aksine en büyük sorunlardan biri.
 
-*https://www.eff.org/issues/privacy
+[https://www.eff.org/issues/privacy](https://www.eff.org/issues/privacy)
 
-*https://privacyinternational.org/learning-resources/privacy-matters
+[https://privacyinternational.org/learning-resources/privacy-matters](https://privacyinternational.org/learning-resources/privacy-matters)
 
 ++Gizlilik evrensel bir insan hakkıdır. Bu hakkı YASAL YOLLARLA korumanın bir tehlikesi yoktur. Ama ne yazık ki 'başımıza bir şey gelir' korkusu insanların cihazlarındaki dosyaları silmelerine bile engel oluyor...
 
