@@ -4,7 +4,7 @@
 
 ## GİZLİLİK
 
-Büyük şirketler, ürünlerini geliştirmeyi sürdürebilmek ve tüm insanlara hizmet verebilmek için gelire ihtiyaç duydular. Ki, bu normal bir şey. Sorun gelir elde etmelerinde değil, geliri nasıl elde ettiklerinde. 
+Büyük şirketler, ürünlerini geliştirmeyi sürdürebilmek ve tüm insanlara hizmet verebilmek için gelire ihtiyaç duyarlar. Ki, bu normal bir şey. Sorun gelir elde etmelerinde değil, geliri nasıl elde ettiklerinde. 
 
 İnternette gelir elde etmenin en yaygın yolu reklamlardır. Kullanıcılar genellikle reklamları görmezden gelirler. Dolayısıyla reklamlar kullanışsız hale gelir. Bu da şirketleri gizliliği hiçe sayan teknolojiler kullanmaya zorlar. Reklamları kullanıcıların ilgi alanlarına göre belirlemek için yaptıkları her hareketi izlerler. Ziyaret ettiğimiz web sayfaları, fare hareketlerimiz, hangi sayfada ne kadar durduğumuz, hangi terimleri arattığımız, nelerle ilgilendiğimiz... Kısacası HERŞEYimizi bilmek isterler, ve büyük ihtimal biliyorlar.
 
