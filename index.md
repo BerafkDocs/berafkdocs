@@ -1,37 +1,17 @@
 ## BerAfk Docs
 
-You can use the [editor on GitHub](https://github.com/BerafkDocs/berafkdocs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+İnternet büyüdükçe ve kullanıcı sayısı arttıkça yeni platformlar doğmaya başladı. Hepsi bize vazgeçemeyeceğimiz benzersiz özellikler sunup, kendilerine bağımlı ahle getiriyorlar. Ama artık tek sorun "İnternet Bağımlılığı" değil. Hatta internet bağımlılığı artık kullanıcılar arasında bir sorun olarak bile görünmüyor. Artık daha büyük bir sorunumuz var. GİZLİLİK
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## GİZLİLİK
 
-### Markdown
+Büyük şirketler, ürünlerini geliştirmeyi sürdürebilmek ve tüm insanlara hizmet verebilmek için gelire ihtiyaç duydular. Ki, bu normal bir şey. Sorun gelir elde etmelerinde değil, geliri nasıl elde ettiklerinde. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+İnternette gelir elde etmenin en yaygın yolu reklamlardır. Kullanıcılar genellikle reklamları görmezden gelirler. Dolayısıyla reklamlar kullanışsız hale gelir. Bu da şirketleri gizliliği hiçe sayan teknolojiler kullanmaya zorlar. Reklamları kullanıcıların ilgi alanlarına göre belirlemek için yaptıkları her hareketi izlerler. Ziyaret ettiğimiz web sayfaları, fare hareketlerimiz, hangi sayfada ne kadar durduğumuz, hangi terimleri arattığımız, nelerle ilgilendiğimiz... Kısacası HERŞEYimizi bilmek isterler, ve büyük ihtimal biliyorlar.
 
-```markdown
-Syntax highlighted code block
+Yanlış bilinen bir gerçek: takip edilebilmeniz için bir hesaba ihtiyacımız var. Veya, DİJİTAL PROFİLLERİMİZİN oluşabilmesi için uygulamaları indirmemiz veya web sitelerini doğrudan ziyaret etmemiz gerekir. HAYIR. Asıl sorun da bu. 
 
-# Header 1
-## Header 2
-### Header 3
+Google web sitelerinin %78'inde gizlenmiş durumda, Bu da hemen hemen girdiğiniz her web sitesini bildikleri anlamına gelir. Sadece girdiğiniz web sitelerini değil, web siitesi içerisinde yaptığınız HER ŞEYi bilirler.
 
-- Bulleted
-- List
+FaceBook web sitelerinin %17'sinde gizlenmiş durumda. Aynı şekilde Amazon da. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BerafkDocs/berafkdocs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(Web takipçileri sıralamalarını ve ayrıntıları için: https://whotracks.me)
