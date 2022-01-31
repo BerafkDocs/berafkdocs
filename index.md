@@ -1,6 +1,6 @@
 ## BerAfk Docs
 
-İnternet büyüdükçe ve kullanıcı sayısı arttıkça yeni platformlar doğmaya başladı. Hepsi bize vazgeçemeyeceğimiz benzersiz özellikler sunup, kendilerine bağımlı ahle getiriyorlar. Ama artık tek sorun "İnternet Bağımlılığı" değil. Hatta internet bağımlılığı artık kullanıcılar arasında bir sorun olarak bile görünmüyor. Artık daha büyük bir sorunumuz var. GİZLİLİK
+İnternet büyüdükçe ve kullanıcı sayısı arttıkça yeni platformlar doğmaya başladı. Hepsi bize vazgeçemeyeceğimiz benzersiz özellikler sunup, kendilerine bağımlı hale getiriyorlar. Ama artık tek sorun "İnternet Bağımlılığı" değil. Hatta internet bağımlılığı artık kullanıcılar arasında bir sorun olarak bile görünmüyor. Artık daha büyük bir sorunumuz var. GİZLİLİK
 
 ## GİZLİLİK
 
