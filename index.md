@@ -20,21 +20,30 @@ FaceBook web sitelerinin %17'sinde gizlenmiş durumda. Aynı şekilde Amazon da.
 
 ## BerafkDocs
 
-Çevrimiçi gizlilik sorunları, toplu gözetime karşı araçlar ve ipuçları, Hakkımızda herşeyi bilen/bilmeye çalışan servislere karşı koruma.
+Çevrimiçi gizlilik sorunları, toplu gözetime karşı araçlar ve ipuçları, Hakkımızda herşeyi bilmeye çalışan servislere karşı koruma.
 
 Doğduğumuz andan itibaren internet ile iç içe gireriz. Yapığımız her hareket dijital profilimize işlenir. Bir noktadan sonra kaçmak tam anlamıyla imkansızdır. Çevrimiçi gizlilikten bahsettiğiniz zaman genellikle aldığımız cevap şunlar olur: 
 
 --"Ne yapsın şirketler senin bilgilerini, sanki çok ünlüsün de"
+
 --"Ne yaparsan yap kaçmak imkansız"
+
 --"Saklayacak bir şeyim yok ki"
+
 --"Kim uğraşacak bunlarla"
+
 --"Başımıza bir şey gelir, boşver"
+
 
 --...--
 
+
 ++Büyük şirketler HERKESİN bilgilerini toplarlar, sadece ünlülerin değil. Çünkü reklamlar tüm kullanıcılara gösterilir, sadece ünlülere değil.
+
 ++Gizliliği korumak imkansız değildir. Gizliliği korumaya çalışmak tamamen anonim kalmaya çalışmak değildir.
+
 ++Saklayacak bir şeyin olmayabilir, ama neden gösterecek bir şeylerin olsun ki?
+
 ++Eğer bugün uğraşmazsak yarın gerçekten pişman olabiliriz. Çevrimiçi gizliliği korumak size anlamsız gelebilir, ama değil. Aksine en büyük sorunlardan biri.
 
 *https://www.eff.org/issues/privacy
