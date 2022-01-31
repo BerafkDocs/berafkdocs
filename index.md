@@ -10,7 +10,7 @@ Büyük şirketler, ürünlerini geliştirmeyi sürdürebilmek ve tüm insanlara
 
 Yanlış bilinen bir gerçek: takip edilebilmeniz için bir hesaba ihtiyacımız var. Veya, DİJİTAL PROFİLLERİMİZİN oluşabilmesi için uygulamaları indirmemiz veya web sitelerini doğrudan ziyaret etmemiz gerekir. HAYIR. Asıl sorun da bu. 
 
-Google web sitelerinin %78'inde gizlenmiş durumda, Bu da hemen hemen girdiğiniz her web sitesini bildikleri anlamına gelir. Sadece girdiğiniz web sitelerini değil, web siitesi içerisinde yaptığınız HER ŞEYi bilirler.
+Google web sitelerinin %78'inde gizlenmiş durumda. Bu da hemen hemen girdiğiniz her web sitesini bildikleri anlamına gelir. Sadece girdiğiniz web sitelerini değil, web sitesi içerisinde yaptığınız HER ŞEYi bilirler.
 
 FaceBook web sitelerinin %17'sinde gizlenmiş durumda. Aynı şekilde Amazon da. 
 
