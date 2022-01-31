@@ -14,7 +14,7 @@ Google web sitelerinin %78'inde gizlenmiş durumda. Bu da hemen hemen girdiğini
 
 FaceBook web sitelerinin %17'sinde gizlenmiş durumda. Aynı şekilde Amazon da. 
 
-(Web takipçileri sıralamalarını ve ayrıntıları için: https://whotracks.me)
+(Web takipçileri sıralamalarını ve ayrıntıları için: [https://whotracks.me](https://whotracks.me)
 
 
 
