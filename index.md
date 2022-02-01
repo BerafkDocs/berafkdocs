@@ -53,3 +53,33 @@ Doğduğumuz andan itibaren internet ile iç içe gireriz. Yapığımız her har
 ++Gizlilik evrensel bir insan hakkıdır. Bu hakkı YASAL YOLLARLA korumanın bir tehlikesi yoktur. Ama ne yazık ki 'başımıza bir şey gelir' korkusu insanların cihazlarındaki dosyaları silmelerine bile engel oluyor...
 
 BerAfk Docs, çevrimiçi gizliliğinizi korumanıza yardımcı olmak için ipuçları, güçlü araçlar, kaynaklar, katılabileceğiniz gizlilik tartışmalarına yönlendirmeler, ve büyük şirketlere karşı nasıl güvende kalabileceğinizi öğretmeyi amaçlar. Unutmayın ki hiçbir araç yüzde yüz gizlilik veya güvenlik sağlamaz. Hiçbir aracın güvenli olup olmadığı yüzde yüz bilinemez. Ama gizliliği ihlal eden araçlardan daha iyi bir seçim oldukları kesindir.
+
+
+
+# Gizliliği ihlal eden popüler uygulamalara alternatifler
+
+## Tarayıcılar
+
+Şunlardan kaçının: Google Chrome, Microsoft Edge, Opera, Yandex.Browser
+
+## Masaüstü İçin
+
+###[Mozilla Firefox](https://firefox.com)
+
+Firefox'u daha da güçlendirmek için ek tarayıcı eklentileri yüklemeniz önerilir. Firefox, farklı platformlardaki tüm cihazlarınız arasında senkronizasyon yapabilir. Firefox kutudan çıktığı gibi mükemmel bir gizlilik tarayıcısı değildir, ancak fazladan zaman ayırmaya ve Firefox'u düzgün bir şekilde kurmaya kesinlikle değer.
+
+Öneriler
+Gelişmiş İzleme Koruması = Seçin: Sıkı
+Yalnızca HTTPS Modu = Seçin: Tüm pencerelerde Yalnızca HTTPS Modunu Etkinleştir .
+uBlock Origin uzantısını ekleyin https://addons.mozilla.org/firefox/addon/ublock-origin/
+
+
+###[Brave Browser](https://brave.com)
+
+Brave Tarayıcı iş modelinden dolayı gizlilik toplulukları arasında popüler bir seçim değildir ama varsayılan olarak tüm reklamları ve takip çerezlerini engeller. 
+Wikipedia'da daha fazla ayrıntıyı bulabilirsiniz https://en.wikipedia.org/wiki/Brave_(web_browser)
+
+
+###[Tor Browser](https://www.torproject.org/)
+
+Ekstra bir anonimlik katmanına ihtiyacınız varsa Tor Browser sizin seçiminizdir. Önceden yüklenmiş gizlilik eklentileri, şifreleme ve gelişmiş bir proxy ile birlikte gelen Firefox'un değiştirilmiş bir sürümüdür. Ek tarayıcı eklentileri yüklemeniz **önerilmez** . Eklentiler veya eklentiler Tor'u atlayabilir veya gizliliğinizi tehlikeye atabilir.
