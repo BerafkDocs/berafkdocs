@@ -56,6 +56,7 @@ BerAfk Docs, çevrimiçi gizliliğinizi korumanıza yardımcı olmak için ipuç
 
 
 
+
 # Gizliliği ihlal eden popüler uygulamalara alternatifler
 
 ## Tarayıcılar
@@ -76,10 +77,25 @@ uBlock Origin uzantısını ekleyin https://addons.mozilla.org/firefox/addon/ubl
 
 ### [Brave Browser](https://brave.com)
 
-Brave Tarayıcı iş modelinden dolayı gizlilik toplulukları arasında popüler bir seçim değildir ama varsayılan olarak tüm reklamları ve takip çerezlerini engeller. 
+Brave Tarayıcı iş modelinden dolayı gizlilik toplulukları arasında popüler bir seçim değildir ama varsayılan olarak tüm reklamları ve takip çerezlerini engeller. Tarayıcı parmak izini rastgeleleştirerek ek gizlilik koruması sağlar.
 Wikipedia'da daha fazla ayrıntıyı bulabilirsiniz https://en.wikipedia.org/wiki/Brave_(web_browser)
 
 
 ### [Tor Browser](https://www.torproject.org/)
 
 Ekstra bir anonimlik katmanına ihtiyacınız varsa Tor Browser sizin seçiminizdir. Önceden yüklenmiş gizlilik eklentileri, şifreleme ve gelişmiş bir proxy ile birlikte gelen Firefox'un değiştirilmiş bir sürümüdür. Ek tarayıcı eklentileri yüklemeniz **önerilmez** . Eklentiler veya eklentiler Tor'u atlayabilir veya gizliliğinizi tehlikeye atabilir.
+
+
+## Mobil için
+
+### [Bromite](https://bromite.org)
+
+Bromite , gizlilik ve güvenlik geliştirmeleri, yerleşik reklam engelleme ve bazı tarayıcı parmak izi rastgeleleştirme özelliklerine sahip Chromium tabanlı bir tarayıcıdır.
+
+Öneriler
+Seçin = Yalnızca HTTPS Modu
+
+
+### [Brave Browser](https://brave.com)
+
+Brave tarayıcısının mobil versiyonu. Varsayılan olarak tüm reklamları ve takip çerezlerini engeller, parmak izi rasgeleleştirme özeeliğine sahiptir.
