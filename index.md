@@ -70,9 +70,10 @@ BerAfk Docs, çevrimiçi gizliliğinizi korumanıza yardımcı olmak için ipuç
 Firefox'u daha da güçlendirmek için ek tarayıcı eklentileri yüklemeniz önerilir. Firefox, farklı platformlardaki tüm cihazlarınız arasında senkronizasyon yapabilir. Firefox kutudan çıktığı gibi mükemmel bir gizlilik tarayıcısı değildir, ancak fazladan zaman ayırmaya ve Firefox'u düzgün bir şekilde kurmaya kesinlikle değer.
 
 Öneriler
-Gelişmiş İzleme Koruması = Seçin: Sıkı
-Yalnızca HTTPS Modu = Seçin: Tüm pencerelerde Yalnızca HTTPS Modunu Etkinleştir .
-uBlock Origin uzantısını ekleyin https://addons.mozilla.org/firefox/addon/ublock-origin/
+
+-Gelişmiş İzleme Koruması = Seçin: Sıkı
+-Yalnızca HTTPS Modu = Seçin: Tüm pencerelerde Yalnızca HTTPS Modunu Etkinleştir .
+-uBlock Origin uzantısını ekleyin https://addons.mozilla.org/firefox/addon/ublock-origin/
 
 
 ### [Brave Browser](https://brave.com)
@@ -93,6 +94,8 @@ Ekstra bir anonimlik katmanına ihtiyacınız varsa Tor Browser sizin seçiminiz
 Bromite , gizlilik ve güvenlik geliştirmeleri, yerleşik reklam engelleme ve bazı tarayıcı parmak izi rastgeleleştirme özelliklerine sahip Chromium tabanlı bir tarayıcıdır.
 
 Öneriler
+
+
 Seçin = Yalnızca HTTPS Modu
 
 
