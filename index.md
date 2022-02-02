@@ -72,7 +72,11 @@ Firefox'u daha da güçlendirmek için ek tarayıcı eklentileri yüklemeniz ön
 Öneriler
 
 -Gelişmiş İzleme Koruması = Seçin: Sıkı
--Yalnızca HTTPS Modu = Seçin: Tüm pencerelerde Yalnızca HTTPS Modunu Etkinleştir .
+
+
+-Yalnızca HTTPS Modu = Seçin: Tüm pencerelerde Yalnızca HTTPS Modunu Etkinleştir.
+
+
 -uBlock Origin uzantısını ekleyin https://addons.mozilla.org/firefox/addon/ublock-origin/
 
 
