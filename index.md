@@ -88,7 +88,7 @@ Ekstra bir anonimlik katmanına ihtiyacınız varsa Tor Browser sizin seçiminiz
 
 ## Mobil için
 
-### [Bromite](https://bromite.org)
+### [Bromite](https://www.bromite.org)
 
 Bromite , gizlilik ve güvenlik geliştirmeleri, yerleşik reklam engelleme ve bazı tarayıcı parmak izi rastgeleleştirme özelliklerine sahip Chromium tabanlı bir tarayıcıdır.
 
@@ -99,3 +99,16 @@ Seçin = Yalnızca HTTPS Modu
 ### [Brave Browser](https://brave.com)
 
 Brave tarayıcısının mobil versiyonu. Varsayılan olarak tüm reklamları ve takip çerezlerini engeller, parmak izi rasgeleleştirme özeeliğine sahiptir.
+
+
+## Gizlilikle ilgili tarayıcı veya eklenti kontrolleri yapabileceğiniz web siteleri:
+
+BrowserLeaks, https://browserleaks.com/
+
+LocateJS, https://z0ccc.github.io/LocateJS/ : Bağlantı ve sistem verilerinizi analiz ederek konumunuzu tahmin eder. Bu tarama, bir VPN, konum sahtekarlığı veya özel mod kullanırken bile konumunuzun nasıl belirlenebileceğini anlamanıza olanak tanır.
+
+IpLeak, https://ipleak.net/ : WebRTC sızıntıları, DNS sızıntıları, Coğrafi Konum, Torrent Adresi algılama ve daha fazlası için kontrolleri destekler.
+
+Cover Your Tracks, https://coveryourtracks.eff.org/ : Tarayıcınızın parmak izine karşı ne kadar koruma sağladığını görmeniz için bir test aracı. Daha az benzersizlik daha iyidir.
+
+https://privacytests.org/, Tarayıcıları gizlilik açısından karşılaştırmak için faydalı bir kaynak.
