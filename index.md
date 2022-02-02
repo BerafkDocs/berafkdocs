@@ -110,12 +110,12 @@ Brave tarayıcısının mobil versiyonu. Varsayılan olarak tüm reklamları ve 
 
 ## Gizlilikle ilgili tarayıcı veya eklenti kontrolleri yapabileceğiniz web siteleri:
 
-BrowserLeaks, https://browserleaks.com/
+BrowserLeaks, [https://browserleaks.com/](https://browserleaks.com/)
 
-LocateJS, https://z0ccc.github.io/LocateJS/ : Bağlantı ve sistem verilerinizi analiz ederek konumunuzu tahmin eder. Bu tarama, bir VPN, konum sahtekarlığı veya özel mod kullanırken bile konumunuzun nasıl belirlenebileceğini anlamanıza olanak tanır.
+LocateJS, [https://z0ccc.github.io/LocateJS/](https://z0ccc.github.io/LocateJS) : Bağlantı ve sistem verilerinizi analiz ederek konumunuzu tahmin eder. Bu tarama, bir VPN, konum sahtekarlığı veya özel mod kullanırken bile konumunuzun nasıl belirlenebileceğini anlamanıza olanak tanır.
 
-IpLeak, https://ipleak.net/ : WebRTC sızıntıları, DNS sızıntıları, Coğrafi Konum, Torrent Adresi algılama ve daha fazlası için kontrolleri destekler.
+IpLeak, [https://ipleak.net/](https://ipleak.net/) : WebRTC sızıntıları, DNS sızıntıları, Coğrafi Konum, Torrent Adresi algılama ve daha fazlası için kontrolleri destekler.
 
-Cover Your Tracks, https://coveryourtracks.eff.org/ : Tarayıcınızın parmak izine karşı ne kadar koruma sağladığını görmeniz için bir test aracı. Daha az benzersizlik daha iyidir.
+Cover Your Tracks, [https://coveryourtracks.eff.org/](https://coveryourtracks.eff.org) : Tarayıcınızın parmak izine karşı ne kadar koruma sağladığını görmeniz için bir test aracı. Daha az benzersizlik daha iyidir.
 
-https://privacytests.org/, Tarayıcıları gizlilik açısından karşılaştırmak için faydalı bir kaynak.
+[https://privacytests.org/](https://privacytests.org/) : Tarayıcıları gizlilik açısından karşılaştırmak için faydalı bir kaynak.
