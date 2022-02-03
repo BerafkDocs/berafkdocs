@@ -120,7 +120,9 @@ Cover Your Tracks, [https://coveryourtracks.eff.org/](https://coveryourtracks.ef
 
 [https://privacytests.org/](https://privacytests.org/) : Tarayıcıları gizlilik açısından karşılaştırmak için faydalı bir kaynak.
 
--------------
+
+-------
+
 
 ## İnternet gizliliğiniz geliştirmek için tarayıcı eklentileri
 
@@ -134,3 +136,11 @@ Ayrıca ayarlardan "[Actually Legitimate URL Shortener Tool](https://raw.githubu
 
 Web Sitesi: https://github.com/gorhill/uBlock#readme
 Gizlilik Politikası: https://github.com/gorhill/uBlock/wiki/Privacy-policy
+
+
+-------
+
+
+## 
+
+
