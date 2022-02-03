@@ -122,7 +122,7 @@ Cover Your Tracks, [https://coveryourtracks.eff.org/](https://coveryourtracks.ef
 
 -------------
 
-## internet gizliliğiniz geliştirmek için tarayıcı eklentileri
+## İnternet gizliliğiniz geliştirmek için tarayıcı eklentileri
 
 ### [uBlock Origin](https://github.com/gorhill/uBlock#readme)
 
