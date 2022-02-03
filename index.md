@@ -161,7 +161,7 @@ Reddit Sayfası: [https://www.reddit.com/r/duckduckgo](https://www.reddit.com/r/
 
 ### [Brave Search](search.brave.com)
 
-Brave Tarayıcı tarafında geliştirilen Brave Search, gizliliğe saygılı başka bir arama motorudur. DuckDuckGo'nun aksine tamamen bağımsız bir dizin üzerine kurulmuştur. Yani arama sonuçlarını diğer arama motorlarından toplamaz. Brave Search ile ilgili blog yazısı: https://brave.com/brave-search-beta/
+Brave Tarayıcı tarafında geliştirilen Brave Search, gizliliğe saygılı başka bir arama motorudur. DuckDuckGo'nun aksine tamamen bağımsız bir dizin üzerine kurulmuştur. Yani arama sonuçlarını diğer arama motorlarından toplamaz. Brave Search ile ilgili blog yazısı: [https://brave.com/brave-search-beta/](https://brave.com/brave-search-beta/)
 
 Web Sitesi: [https://search.brave.com](https://search.brave.com)
 
