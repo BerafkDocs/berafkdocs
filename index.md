@@ -116,6 +116,16 @@ LocateJS, [https://z0ccc.github.io/LocateJS/](https://z0ccc.github.io/LocateJS) 
 
 IpLeak, [https://ipleak.net/](https://ipleak.net/) : WebRTC sızıntıları, DNS sızıntıları, Coğrafi Konum, Torrent Adresi algılama ve daha fazlası için kontrolleri destekler.
 
-Cover Your Tracks, [https://coveryourtracks.eff.org/](https://coveryourtracks.eff.org) : Tarayıcınızın parmak izine karşı ne kadar koruma sağladığını görmeniz için bir test aracı. Daha az benzersizlik daha iyidir.
+Cover Your Tracks, [https://coveryourtracks.eff.org/](https://coveryourtracks.eff.org) : Tarayıcınızın parmak izine karşı ne kadar koruma sağladığını görmeniz için bir test aracı. **Daha az benzersizlik daha iyidir.**
 
 [https://privacytests.org/](https://privacytests.org/) : Tarayıcıları gizlilik açısından karşılaştırmak için faydalı bir kaynak.
+
+-------------
+
+## internet gizliliğiniz geliştirmek için tarayıcı eklentileri
+
+### [uBlock Origin](https://github.com/gorhill/uBlock#readme)
+
+uBlock Origin , reklamları, izleyicileri ve parmak izi komut dosyalarını engellemenize yardımcı olabilecek popüler bir içerik engelleyicidir.
+
+"Reklamlar", "Gizlilik" ve "Zararlı alan adları" altındaki tüm filtre listelerini etkinleştirmenizi öneririz . “Can Sıkıcı Öğeler” ve “Çok-Amaçlı” listeleri de etkinleştirilebilir, ancak bazı sosyal medya işlevlerini bozabilir. 
