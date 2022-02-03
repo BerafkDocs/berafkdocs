@@ -134,8 +134,8 @@ uBlock Origin , reklamları, izleyicileri ve parmak izi komut dosyalarını enge
 
 Ayrıca ayarlardan "[Actually Legitimate URL Shortener Tool](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)" listesini de eklemenizi öneririz.
 
-Web Sitesi: https://github.com/gorhill/uBlock#readme
-Gizlilik Politikası: https://github.com/gorhill/uBlock/wiki/Privacy-policy
+Web Sitesi: [https://github.com/gorhill/uBlock#readme](https://github.com/gorhill/uBlock#readme)
+Gizlilik Politikası: [https://github.com/gorhill/uBlock/wiki/Privacy-policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy)
 
 
 -------
@@ -151,8 +151,10 @@ Aramalarınıza dayalı bir reklam profili oluşturmayan bir arama motoru kullan
 
 DuckDuckGo, ABD merkezli gizliliğe saygı duyan bir arama motorudur. DuckDuckGo, arama sonuçlarını diğer arama motorlarından toplar ve proxy aracılığıyla size ulaştırır. Bu olay esnasında IP adresi gibi bilgleriniz ifşa olmaz. DuckDuckGo ayrıca TOR için varsayılan olarak kullanılır. DuckDuckGo'nun [javascript gerektirmeyen bir versiyonu (HTML)](https://duckduckgo.com/html) ve .onion adresi de vardır ```(https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/```, .onion adresleri akılda tutulamayacak kadar uzundur, linki [DuckDuckGo'nun resmi Reddit sayfası](https://www.reddit.com/r/duckduckgo)ndan da bulabilirsiniz.)
 
-Web Sitesi: https://duckduckgo.com/
-Gizlilik Politikası: https://duckduckgo.com/privacy
+Web Sitesi: [https://duckduckgo.com/](https://duckduckgo.com/)
+
+Gizlilik Politikası: [https://duckduckgo.com/privacy](https://duckduckgo.com/privacy)
+
 Reddit Sayfası: ```https://www.reddit.com/r/duckduckgo```
 
 
@@ -160,6 +162,7 @@ Reddit Sayfası: ```https://www.reddit.com/r/duckduckgo```
 
 Brave Tarayıcı tarafında geliştirilen Brave Search, gizliliğe saygılı başka bir arama motorudur. DuckDuckGo'nun aksine tamamen bağımsız bir dizin üzerine kurulmuştur. Yani arama sonuçlarını diğer arama motorlarından toplamaz. Brave Search ile ilgili blog yazısı: https://brave.com/brave-search-beta/
 
-Web Sitesi: https://search.brave.com
-Gizlilik Politikası: https://search.brave.com/help/privacy-policy
+Web Sitesi: [https://search.brave.com](https://search.brave.com)
+
+Gizlilik Politikası: [https://search.brave.com/help/privacy-policy](https://search.brave.com/help/privacy-policy)
 
