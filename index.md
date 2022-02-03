@@ -141,6 +141,14 @@ Gizlilik Politikası: https://github.com/gorhill/uBlock/wiki/Privacy-policy
 -------
 
 
-## 
+## Arama Motorları
+
+Şunlardan Kaçının: Google, Yahoo, Yandex, Bing
+
+Aramalarınıza dayalı bir reklam profili oluşturmayan bir arama motoru kullanın. Buradaki öneriler, her bir hizmetin gizlilik politikasının esasına dayanmaktadır. Bu gizlilik politikalarına uyulacağının **garantisi yoktur**. Eğer IP adresinizi gizlemek istiyorsanız [TOR](https://torproject.org) veya VPN kullanın
+
+### [DuckDuckGo](https://duckduckgo.com)
+
+DuckDuckGo, ABD merkezli gizliliğe saygı duyan bir arama motorudur. Ayrıca TOR için varsayılan olarak kullanılır. DuckDuckGo'nun [javascript gerektirmeyen bir versiyonu (HTML)](https://duckduckgo.com/html) ve .onion adresi de vardır (https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/, .onion adresleri akılda tutulamayacak kadar uzundur, linki [DuckDuckGo'nun resmi Reddit sayfası](https://www.reddit.com/r/duckduckgo)ndan da bulabilirsiniz.)
 
 
