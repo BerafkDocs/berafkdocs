@@ -129,3 +129,5 @@ Cover Your Tracks, [https://coveryourtracks.eff.org/](https://coveryourtracks.ef
 uBlock Origin , reklamları, izleyicileri ve parmak izi komut dosyalarını engellemenize yardımcı olabilecek popüler bir içerik engelleyicidir.
 
 "Reklamlar", "Gizlilik" ve "Zararlı alan adları" altındaki tüm filtre listelerini etkinleştirmenizi öneririz . “Can Sıkıcı Öğeler” ve “Çok-Amaçlı” listeleri de etkinleştirilebilir, ancak bazı sosyal medya işlevlerini bozabilir. 
+
+Ayrıca ayarlardan "[Actually Legitimate URL Shortener Tool](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)" listesini de eklemenizi öneririz.
