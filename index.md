@@ -149,6 +149,6 @@ Aramalarınıza dayalı bir reklam profili oluşturmayan bir arama motoru kullan
 
 ### [DuckDuckGo](https://duckduckgo.com)
 
-DuckDuckGo, ABD merkezli gizliliğe saygı duyan bir arama motorudur. Ayrıca TOR için varsayılan olarak kullanılır. DuckDuckGo'nun [javascript gerektirmeyen bir versiyonu (HTML)](https://duckduckgo.com/html) ve .onion adresi de vardır (https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/, .onion adresleri akılda tutulamayacak kadar uzundur, linki [DuckDuckGo'nun resmi Reddit sayfası](https://www.reddit.com/r/duckduckgo)ndan da bulabilirsiniz.)
+DuckDuckGo, ABD merkezli gizliliğe saygı duyan bir arama motorudur. Ayrıca TOR için varsayılan olarak kullanılır. DuckDuckGo'nun [javascript gerektirmeyen bir versiyonu (HTML)](https://duckduckgo.com/html) ve .onion adresi de vardır ```(https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/```, .onion adresleri akılda tutulamayacak kadar uzundur, linki [DuckDuckGo'nun resmi Reddit sayfası](https://www.reddit.com/r/duckduckgo)ndan da bulabilirsiniz.)
 
 
