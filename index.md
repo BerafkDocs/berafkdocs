@@ -135,6 +135,7 @@ uBlock Origin , reklamları, izleyicileri ve parmak izi komut dosyalarını enge
 Ayrıca ayarlardan "[Actually Legitimate URL Shortener Tool](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt)" listesini de eklemenizi öneririz.
 
 Web Sitesi: [https://github.com/gorhill/uBlock#readme](https://github.com/gorhill/uBlock#readme)
+
 Gizlilik Politikası: [https://github.com/gorhill/uBlock/wiki/Privacy-policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy)
 
 
