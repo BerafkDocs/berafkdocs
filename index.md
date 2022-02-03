@@ -156,7 +156,7 @@ Web Sitesi: [https://duckduckgo.com/](https://duckduckgo.com/)
 
 Gizlilik Politikası: [https://duckduckgo.com/privacy](https://duckduckgo.com/privacy)
 
-Reddit Sayfası: ```https://www.reddit.com/r/duckduckgo```
+Reddit Sayfası: [https://www.reddit.com/r/duckduckgo](https://www.reddit.com/r/duckduckgo)
 
 
 ### [Brave Search](search.brave.com)
