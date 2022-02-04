@@ -167,3 +167,10 @@ Web Sitesi: [https://search.brave.com](https://search.brave.com)
 
 Gizlilik Politikası: [https://search.brave.com/help/privacy-policy](https://search.brave.com/help/privacy-policy)
 
+
+-------
+
+
+## E-Posta Servisleri
+
+Şunlardan Kaçının: Gmail, 
